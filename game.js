@@ -1,4 +1,4 @@
-var buttonColours=["red","blue","green","yellow"];
+var buttonColours=["red","blue","green","yellow", "black"];
 var gamePattern=[];
 var userChosenColour=[];
 function nextSequence(){
